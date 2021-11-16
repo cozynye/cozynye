@@ -2,9 +2,9 @@
 
 <!--
 **cozynye/cozynye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![본인깃허브ID's GitHub stats](https://github-readme-stats.vercel.app/api?username=cozynye&show_icons=true&theme=dark)
-Here are some ideas to get you started:
 
+Here are some ideas to get you started:
+![본인깃허브ID's GitHub stats](https://github-readme-stats.vercel.app/api?username=cozynye&show_icons=true&theme=dark)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
