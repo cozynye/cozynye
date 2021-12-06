@@ -11,24 +11,25 @@
     <b> Things about me </b> <i>(click to expand 👇)</i> 
   </summary>
   <hr/>
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=katej927&show_icons=true">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=cozynye&show_icons=true">
   <p>
     <br/>
-    <b>⚡ Skills:</b>
+<!--     <b>⚡ Skills:</b> -->
     <br/>
-      <span><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></span>
+      
+    <br/><br/>
+    <b>📖 Currently learning:</b>
+    <br/>
+	  <span><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></span>
       <span><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/></span>
       <span><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></span>
       <span><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></span>
       <span><img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/></span>
       <span><img src="https://img.shields.io/badge/Styled-DB7093?style=flat-square&logo=styled-components&logoColor=white"/></span>
-      <span><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></span>
-    <br/><br/>
-    <b>📖 Currently learning:</b>
-    <br/>
+<!--       <span><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></span>
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
     <span><img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/></span>
-    <span><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/></span>
+    <span><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/></span> -->
     <br/><br/>
   </p>
 <hr/>
