@@ -16,16 +16,15 @@
     <br/>
 	<b>📖 Skills</b>
     <br/>
-	<span><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></span>
-      <span><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/></span>
-      <span><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></span>
-      <span><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></span>
-      <span><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></span>
-	  <span><img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white"/></span>
+	<span><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/></span>
+      <span><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white"/></span>
+      <span><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/></span>
+      <span><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/></span>
+      <span><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/></span>
+	  <span><img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"/></span>
 	 <span> <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"></span>
+	<span>   <img src="https://img.shields.io/badge/mssql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></span>
 
-출처: https://byul91oh.tistory.com/214 [개꼬 [: 개발하는 꼬바리]]
-	  
     <br/><br/><br/><br/>
   </p>
 <hr/>
