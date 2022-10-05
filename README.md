@@ -2,7 +2,6 @@
  <p>
   Hi, there!<br/>
   I'm Frontend Developer in WEB <br/> 
-  Recently, I am developing WebRTC SDK
 </p>
  
  <p>
