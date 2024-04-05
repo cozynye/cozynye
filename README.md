@@ -1,4 +1,4 @@
- ### 🤞 Nice way to meet me
+ ### 🤞  Good day 
  <p>
   Hi, there!<br/>
   I'm Frontend Developer in WEB <br/> 
@@ -25,6 +25,6 @@
 <p>
   <h3>👉 Contact</h3>
   <a href="https://github.com/cozynye"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a>
-  <a href="https://reviewoftheworld.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://reviewoftheworld.tistory.com/" /></a>
+<!--   <a href="https://reviewoftheworld.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://reviewoftheworld.tistory.com/" /></a> -->
   <a href="mailto:cozynye@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&link=cozynye@gmail.com"/></a>
 </p>
